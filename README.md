@@ -12,9 +12,9 @@
 
 #### 方法1：
 
-配置文件存放在: 用户目录\\.config\music_player\config.yml
+配置文件存放在: 用户目录`\\.config\music_player\config.yml`
 
-Configuration file path: ~\\.config\music_player\config.yml
+Configuration file path: `~\\.config\music_player\config.yml`
 
 如果不确定自己的路径，可以运行**dir_print**下的项目，简单输出一下自己的路径，就知道该配在哪里了
 
